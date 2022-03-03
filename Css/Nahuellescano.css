@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(70, 106, 138);
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    background-color: green;
+}
+#series{
+    text-align: center;
+    background-color: aqua;
+}
+#imagen{
+    height: 330px;
+    width: 280px;
+    display: block;
+    margin: auto;
+}
+.Cosas-que-me-gustan{
+    text-align: center;
+    background-color: aqua;
+}
+#peliculas{
+text-align: center;
+background-color: violet;
+}
+
+footer{
+    background-color: gray;
+}
