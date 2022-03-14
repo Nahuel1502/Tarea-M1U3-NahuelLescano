@@ -1,11 +1,17 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
 body{
     background-color: rgb(70, 106, 138);
 }
 h1{
-    color: red;
-    text-align: center;
+    display: inline;
+    color: rgba(187, 41, 255, 0.836);
+    border:solid 3px blueviolet;
+    border-radius: 10px;
     font-size: 60px;
 background-color: aliceblue;
+box-shadow: 10px 7px;
 }
 h2{
     text-align: center;
@@ -14,22 +20,31 @@ h2{
 #series{
     text-align: center;
     background-color: aqua;
+    font-weight:bold;
 }
+
 #imagen{
+    color: rgba(187, 41, 255, 0.836);
     height: 330px;
     width: 280px;
     display: block;
     margin: auto;
+    border-radius: 7px;
+    border: solid 3px blueviolet;
+    box-shadow: 10px 7px;
 }
 .Cosas-que-me-gustan{
     text-align: center;
     background-color: aqua;
+    font-weight: bold;
 }
 #peliculas{
 text-align: center;
 background-color: violet;
+font-weight: bolder;
 }
 
 footer{
     background-color: gray;
+    
 }
